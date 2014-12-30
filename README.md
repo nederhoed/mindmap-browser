@@ -11,6 +11,7 @@ Topic Maps theory offers 3 types of information: Topics, Associations and Occure
 Let's model a family and visualize some possible mindmaps for this family. To keep it simple, we will start with Marge, Homer, Bart and Lisa.
 
 Topics: Marge, Homer, Bart, Lisa, Saxophone
+
 Associations: 
 * "Marge is married to Homer"
 * "Homer is married to Marge"
@@ -19,15 +20,18 @@ Associations:
 * "Marge is Lisa's parent"
 * "Homer is Lisa's parent"
 * "Lisa plays Saxophone"
+
 Occurences:
 * https://www.youtube.com/watch?v=OFoW6fa79xA (Lisa playing Saxophone)
 
 Topic types: "cartoon character", "musical instrument"
+
 Association types: (which are topics themselves)
 * "is married to"
 * "plays musical instrument"
 * "is parent of"
 * etc.
+
 Occurence types: "video"
 
 Keep in mind that the goal is to make the family browsable. We're not focussing on a reasoning engine. 

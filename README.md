@@ -53,3 +53,6 @@ Keep in mind that the goal is to make the family browsable. We're not focussing 
 * tm_type ("video")
 * title ("What Homer thinks of Lisa's saxophone")
 * url ("https://www.youtube.com/watch?v=OFoW6fa79xA")
+
+## Related resources
+* JSON Topic Maps 1.1 - http://www.cerny-online.com/jtm/1.1/
